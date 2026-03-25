@@ -5,6 +5,8 @@
 > * ⭐ There are lots of options for low-cost prototyping and small series production. 
 > * 🌟 Their 24/7 support for payments and for reviewing makes our teams production scale rapdiy!
 
+### Author: Gurman Khella (BMS Designer) 
+
 ## Acknowledgment
 This project was kindly supported by [**PCBWay**](https://www.pcbway.com/), who manufactured this iteration's batch of the moduleboard test PCBs. PCBWay provides reliable PCB manufacturing and assembly services, offering a wide range of cost-effective options for rapid prototyping and small-volume production.
 
